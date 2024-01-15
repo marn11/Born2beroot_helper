@@ -14,4 +14,4 @@ Feel free to check back regularly, as I'll be continuously updating and adding m
 
 Happy coding!
 
-![Screenshot](https://github.com/marn11/Born2beroot_helper/issues/1#issue-2082387934)
+![Screenshot](https://imgur.com/a/cMZHLW1)
