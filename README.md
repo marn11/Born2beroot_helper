@@ -14,4 +14,4 @@ Feel free to check back regularly, as I'll be continuously updating and adding m
 
 Happy coding!
 
-![Screenshot](https://imgur.com/a/cMZHLW1)
+![Screenshot](https://i.imgur.com/uaGOD4h.png)
