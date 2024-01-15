@@ -1,6 +1,17 @@
- # Born2beroot_helper
-42 cursus project Born2beroot overview
+# Born2beroot_helper
 
-Here is a Notion database I created When I was working on Born2beroot. I'm willing to add many other useful infos very soon.
+## 42 Cursus Project: Born2beroot Overview
 
-[Link to the Database](https://bit.ly/3vrCUuw)
+Welcome to Born2beroot_helper! This repository provides a Notion database that I created while working on the Born2beroot project. The database contains valuable information to assist you in completing the project successfully.
+
+### Notion Database
+
+Explore the Born2beroot_Helper Notion database for comprehensive information, tips, and resources related to the Born2beroot project.
+
+[**Link to the Database**](https://bit.ly/3vrCUuw)
+
+Feel free to check back regularly, as I'll be continuously updating and adding more useful information to enhance your Born2beroot experience.
+
+Happy coding!
+
+![Screenshot](https://github.com/marn11/Born2beroot_helper/issues/1#issue-2082387934)
